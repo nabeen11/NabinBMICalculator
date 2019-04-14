@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMICalculatorNabin</string>
+    <string name="head">BMI CALCULATOR</string>
+    <string name="btnhint">Calculate BMI</string>
+    <string name="bmi">Your BMI</string>
+    <string name="weighthint">Enter your Weight (kg)</string>
+    <string name="heighthint">Enter your Height (cm)</string>
+
+</resources>
